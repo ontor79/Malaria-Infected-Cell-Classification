@@ -17,3 +17,9 @@ While being a generally black box approach, with modern techniques, deep learnin
     - Bonus: deployed the streamlit app on a cloud platform (eg: heroku)
 
 3. Detailed approach and findings from the dataset in a 2-4 page technical report using a prefered format. Provided the necessary details to rationalize assumptions and choice of methods.
+
+
+# Models used here : CNN (Convolutional Neural Network)
+
+A convolutional neural network (CNN) is a type of artificial neural network used in image recognition and processing that is specifically designed to process pixel data.
+CNNs are powerful image processing, artificial intelligence (AI) that use deep learning to perform both generative and descriptive tasks, often using machine vison that includes image and video recognition, along with recommender systems and natural language processing (NLP).
