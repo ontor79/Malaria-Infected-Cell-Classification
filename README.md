@@ -23,3 +23,6 @@ While being a generally black box approach, with modern techniques, deep learnin
 
 A convolutional neural network (CNN) is a type of artificial neural network used in image recognition and processing that is specifically designed to process pixel data.
 CNNs are powerful image processing, artificial intelligence (AI) that use deep learning to perform both generative and descriptive tasks, often using machine vison that includes image and video recognition, along with recommender systems and natural language processing (NLP).
+
+
+![1-4](https://user-images.githubusercontent.com/94853515/145634851-b625d049-15ff-4287-a77e-aec660a0d9cb.png)
