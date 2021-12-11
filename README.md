@@ -51,4 +51,4 @@ CNNs are powerful image processing, artificial intelligence (AI) that use deep l
 
     9. Test the images in "test_images" folder and see the accuracy of prediction of the model.
 
------------------------------------------------------------------------- # Thank You # ----------------------------------------------------------------------------------
+------------------------------------------------------------------------ # Thank You # ------------------------------------------------------------------------
